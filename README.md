@@ -84,7 +84,7 @@ for testing each day.
 
 #### Testing
 ```
-yarn test
+yarn test  // SHOULD DO npx jest <file-name>
 ```
 
 I have yet to create a testing strategy for next sets of algorithms, but we
